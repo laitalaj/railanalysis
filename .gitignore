@@ -1,0 +1,7 @@
+# Uncompressed data
+
+data/*.graphml
+
+# Jupyter stuff
+
+.ipynb_checkpoints
