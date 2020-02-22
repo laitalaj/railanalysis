@@ -9,3 +9,6 @@ data/*.graphml
 # Visual Studio Code
 
 .vscode
+
+# Compressed population density dataset
+popdensity.zip
