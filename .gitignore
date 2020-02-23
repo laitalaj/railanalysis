@@ -2,6 +2,10 @@
 
 data/*.graphml
 
+# OSMNX image output
+
+images/
+
 # Jupyter stuff
 
 .ipynb_checkpoints
