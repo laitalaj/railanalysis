@@ -1,6 +1,7 @@
 # Uncompressed data
 
 data/*.graphml
+data/*.tif
 
 # OSMNX image output
 
@@ -14,5 +15,5 @@ images/
 
 .vscode
 
-# Compressed population density dataset
-popdensity.zip
+# Compressed population density data
+data/compressed/*.zip
