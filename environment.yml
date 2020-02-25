@@ -1,9 +1,12 @@
 name: railanalysis
+channels:
+    - conda-forge
 dependencies:
     - python=3.8
     - nb_conda_kernels
     - ipykernel
     - osmnx
+    - georasters
     - pip
     - pip:
         - py7zr
