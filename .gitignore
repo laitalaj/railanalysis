@@ -2,6 +2,7 @@
 
 data/*.graphml
 data/*.tif
+data/*.pickle
 
 # OSMNX image output
 
