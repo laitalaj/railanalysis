@@ -1,8 +1,16 @@
+# Python stuff
+
+__pycache__
+
 # Uncompressed data
 
 data/*.graphml
 data/*.tif
 data/*.pickle
+data/*.dbf
+data/*.prj
+data/*.shp
+data/*.shx
 
 # OSMNX image output
 
