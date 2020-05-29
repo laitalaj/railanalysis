@@ -2,6 +2,12 @@
 
 Project for Network Analysis, spring 2020, University of Helsinki
 
+## What's this?
+
+We performed a bunch of analysis tasks on Northern Europe's rail network.
+For more info and results, check out the
+[related report](http://julius.laita.la/pdfs/nerails).
+
 ## Getting started
 
 1. Install [Anaconda](https://www.anaconda.com/)
